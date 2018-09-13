@@ -1,0 +1,36 @@
+Accuracy up to 1 tests is 0.00%; taking 0.45 secs per testing sample on average. 
+Accuracy up to 2 tests is 50.00%; taking 0.42 secs per testing sample on average. 
+Accuracy up to 3 tests is 66.67%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 4 tests is 50.00%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 5 tests is 60.00%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 6 tests is 66.67%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 7 tests is 71.43%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 8 tests is 75.00%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 9 tests is 77.78%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 10 tests is 80.00%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 11 tests is 81.82%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 12 tests is 83.33%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 13 tests is 76.92%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 14 tests is 78.57%; taking 0.41 secs per testing sample on average. 
+Accuracy up to 15 tests is 80.00%; taking 0.40 secs per testing sample on average. 
+Accuracy up to 16 tests is 81.25%; taking 0.40 secs per testing sample on average. 
+Accuracy up to 17 tests is 82.35%; taking 0.40 secs per testing sample on average. 
+Accuracy up to 18 tests is 83.33%; taking 0.40 secs per testing sample on average. 
+Accuracy up to 19 tests is 84.21%; taking 0.40 secs per testing sample on average. 
+Accuracy up to 20 tests is 80.00%; taking 0.40 secs per testing sample on average. 
+
+ Summary of PCANet and SVM classifier 
+
+ PCANet training time: 84.21 secs.
+ SVM training time: 0.63 secs.
+ Testing Accuracy: 80.00%
+ Testing error rate: 20.00%
+ Average testing time 0.40 secs per test sample. 
+
+ True Positive 0. 
+
+ False Positive 0. 
+
+ True Negative 16. 
+
+ False Negative 4. 
